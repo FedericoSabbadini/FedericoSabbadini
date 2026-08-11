@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Federico 👋
 
-<!--
-**FedericoSabbadini/FedericoSabbadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student @ University of Brescia — I build things with AI, data, and software.
 
-Here are some ideas to get you started:
+Most of my time goes into **ML, LLMs, time series, RL, and cybersecurity** — mixing uni projects with stuff I build out of curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I experiment, break things, and occasionally make them work.
+
+<p align="left">
+  <a href="https://federicosabbadini.github.io/my_portfolio/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/federicosabbadini">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
