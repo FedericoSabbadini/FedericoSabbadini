@@ -2,7 +2,7 @@
 
 Computer Engineering student @ University of Brescia — I build things with AI, data, and software.
 
-Most of my time goes into **ML, LLMs, time series, RL, and cybersecurity** — mixing uni projects with stuff I build out of curiosity.
+Most of my time goes into **ML & LLMs, data and cybersecurity** — mixing uni projects with stuff I build out of curiosity.
 
 I experiment, break things, and occasionally make them work.
 
