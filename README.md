@@ -1,6 +1,6 @@
 ## Hey, I'm Federico 👋
 
-Computer Engineering student @ University of Brescia — I build things with AI, data, and software.
+Independent AI-first builder. I design and run ModelVault, a micro-SaaS of FastAPI services.
 
 Most of my time goes into **ML & LLMs, data and cybersecurity** — mixing uni projects with stuff I build out of curiosity.
 
